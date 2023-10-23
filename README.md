@@ -1,4 +1,7 @@
 # codeline-task
-Hind Abdullah Alsubhi
-hindalsubhi@outlook.com
-93532940
+
+Name: Hind Abdullah Alsubhi
+
+Email: hindalsubhi@outlook.com
+
+Phone : 93532940
